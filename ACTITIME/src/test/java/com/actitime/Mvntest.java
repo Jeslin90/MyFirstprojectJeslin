@@ -8,6 +8,6 @@ public class Mvntest
 @Test
 	public void print()
 	{
-		Reporter.log("Test",true);
+		Reporter.log("Test Commit",true);
 	}
 }
