@@ -9,5 +9,6 @@ public class Mvntest
 	public void print()
 	{
 		Reporter.log("Test Commit",true);
+		Reporter.log("Test test",true);
 	}
 }
