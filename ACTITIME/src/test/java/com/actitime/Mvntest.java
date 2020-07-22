@@ -10,5 +10,6 @@ public class Mvntest
 	{
 		Reporter.log("Test Commit",true);
 		Reporter.log("Test test",true);
+		Reporter.log("Test Jeslin",true);
 	}
 }
